@@ -1,0 +1,121 @@
+[
+  {
+    "src": "assets/works/web/creo-1.mp4",
+    "poster": "assets/works/web/creo-1.jpg",
+    "title": { "en": "Leafy", "uk": "Leafy" },
+    "category": { "en": "Plant care app · Video ad", "uk": "Застосунок для догляду за рослинами · Відеореклама" },
+    "description": {
+      "en": "App ad for Leafy: a wilting houseplant asks for water, a quick photo scan gives care tips, and the plant comes back to life.",
+      "uk": "Реклама застосунку Leafy: зів’яла кімнатна рослина просить води, фото-сканування дає поради з догляду — і рослина оживає."
+    }
+  },
+  {
+    "src": "assets/works/web/creo-2.mp4",
+    "poster": "assets/works/web/creo-2.jpg",
+    "title": { "en": "krkr", "uk": "krkr" },
+    "category": { "en": "Beauty e-shop · Video ad", "uk": "Б’юті-магазин · Відеореклама" },
+    "description": {
+      "en": "Ad for the krkr.com.ua beauty store: a duck couple’s wedding story meets the shopping flow on the site — pick, test, enjoy.",
+      "uk": "Реклама б’юті-магазину krkr.com.ua: весільна історія пари каченят поєднується з покупкою на сайті — «Підбирай. Тестуй. Кайфуй»."
+    }
+  },
+  {
+    "src": "assets/works/web/creo-3.mp4",
+    "poster": "assets/works/web/creo-3.jpg",
+    "title": { "en": "BiteLens", "uk": "BiteLens" },
+    "category": { "en": "Calorie tracking app · Video ad", "uk": "Застосунок для підрахунку калорій · Відеореклама" },
+    "description": {
+      "en": "A burger splits into layers, then the app scans the meal and shows calories and macros — “Your meal. Decoded.”",
+      "uk": "Бургер розпадається на шари, а застосунок сканує страву й показує калорії та БЖВ — «Your meal. Decoded.»"
+    }
+  },
+  {
+    "src": "assets/works/web/creo-4.mp4",
+    "poster": "assets/works/web/creo-4.jpg",
+    "title": { "en": "Affiliate Marketing", "uk": "Affiliate Marketing" },
+    "category": { "en": "Finance app · UGC ad", "uk": "Фінансовий застосунок · UGC-реклама" },
+    "description": {
+      "en": "UGC-style ad: a creator talks about how much she earns while an animated phone mockup shows the payout and earnings history. I made the lipsync and the phone mockup.",
+      "uk": "UGC-реклама: авторка розповідає, скільки заробляє, а анімований мокап телефона показує виведення коштів та історію заробітку. Ліпсинк і мокап телефона — мої."
+    },
+    "badge": { "en": "Lipsync · Phone mockup", "uk": "Ліпсинк · Мокап телефона" }
+  },
+  {
+    "src": "assets/works/web/creo-5.mp4",
+    "poster": "assets/works/web/creo-5.jpg",
+    "title": { "en": "Merchly", "uk": "Merchly" },
+    "category": { "en": "Custom merch app · Motion design", "uk": "Застосунок для мерчу · Моушн-дизайн" },
+    "description": {
+      "en": "Bright motion-design ad for Merchly: upload an image, adjust the placement and colour, and get a T-shirt with your own design.",
+      "uk": "Яскрава моушн-реклама Merchly: завантаж зображення, налаштуй розміщення й колір — і отримай футболку з власним дизайном."
+    }
+  },
+  {
+    "src": "assets/works/web/creo-6.mp4",
+    "poster": "assets/works/web/creo-6.jpg",
+    "title": { "en": "Orange Chicken Salad", "uk": "Салат з куркою та апельсином" },
+    "category": { "en": "YouTube Shorts · Cooking channel", "uk": "YouTube Shorts · Кулінарний канал" },
+    "description": {
+      "en": "A short from my cooking channel. Concept, set styling, top-down filming, lighting, colour and edit — all done by me.",
+      "uk": "Шортс із мого кулінарного каналу. Концепція, стилізація сету, зйомка зверху, світло, колір і монтаж — усе зроблено мною."
+    },
+    "badge": { "en": "Filmed by me", "uk": "Власна зйомка" }
+  },
+  {
+    "src": "assets/works/web/creo-7.mp4",
+    "poster": "assets/works/web/creo-7.jpg",
+    "title": { "en": "LUMA", "uk": "LUMA" },
+    "category": { "en": "Body care · Product video", "uk": "Догляд за тілом · Продуктове відео" },
+    "description": {
+      "en": "Summery product video for LUMA SPF 50 body cream with raspberry, citrus and coconut. Every shot was generated with AI — no real footage was filmed.",
+      "uk": "Літнє продуктове відео для крему для тіла LUMA SPF 50 з малиною, цитрусом і кокосом. Усі кадри згенеровано за допомогою AI — без реальної зйомки."
+    },
+    "badge": { "en": "100% AI-generated", "uk": "100% AI-генерація" }
+  },
+  {
+    "src": "assets/works/web/creo-8.mp4",
+    "poster": "assets/works/web/creo-8.jpg",
+    "title": { "en": "La Roche-Posay Effaclar", "uk": "La Roche-Posay Effaclar" },
+    "category": { "en": "Skincare · Product video", "uk": "Догляд за шкірою · Продуктове відео" },
+    "description": {
+      "en": "Product video for the Effaclar cleansing gel: skin analysis, the science of salicylic acid, LHA and zinc, and real-skin results. Every shot was generated with AI.",
+      "uk": "Продуктове відео для гелю Effaclar: аналіз шкіри, наука про саліцилову кислоту, LHA та цинк і результат на реальній шкірі. Усі кадри згенеровано за допомогою AI."
+    },
+    "badge": { "en": "100% AI-generated", "uk": "100% AI-генерація" }
+  },
+  {
+    "src": "assets/works/web/creo-9.mp4",
+    "poster": "assets/works/web/creo-9.jpg",
+    "title": { "en": "MORA", "uk": "MORA" },
+    "category": { "en": "Drinks brand · Product video", "uk": "Бренд напоїв · Продуктове відео" },
+    "description": {
+      "en": "Playful “More…” spot for MORA strawberry matcha drinks: more strawberry, more matcha, more flavours, more energy. Every shot was generated with AI.",
+      "uk": "Грайливий ролик «More…» для напоїв MORA зі смаком полуниці й матчі: більше полуниці, матчі, смаків, енергії. Усі кадри згенеровано за допомогою AI."
+    },
+    "badge": { "en": "100% AI-generated", "uk": "100% AI-генерація" }
+  },
+  {
+    "type": "image",
+    "format": "landscape",
+    "src": "assets/works/web/creo-10.jpg",
+    "poster": "assets/works/web/creo-10-thumb.jpg",
+    "title": { "en": "BiteLens · Static", "uk": "BiteLens · Статика" },
+    "category": { "en": "Calorie tracking app · Static creative", "uk": "Застосунок для підрахунку калорій · Статичний креатив" },
+    "description": {
+      "en": "Static creative: a salmon avocado toast split into layers with calories for each, next to the app’s meal screen.",
+      "uk": "Статичний креатив: тост із лососем і авокадо, розкладений на шари з калоріями кожного, поруч з екраном застосунку."
+    }
+  },
+  {
+    "type": "image",
+    "format": "landscape",
+    "src": "assets/works/web/creo-11.jpg",
+    "poster": "assets/works/web/creo-11-thumb.jpg",
+    "title": { "en": "krkr × LIPSS · Static", "uk": "krkr × LIPSS · Статика" },
+    "category": { "en": "Beauty e-shop · Static creative", "uk": "Б’юті-магазин · Статичний креатив" },
+    "description": {
+      "en": "Static creative for krkr.com.ua featuring LIPSS lip care, the brand’s duck mascots and the online store on a phone.",
+      "uk": "Статичний креатив для krkr.com.ua: догляд для губ LIPSS, каченята-маскоти бренду та інтернет-магазин на телефоні."
+    }
+  }
+]
